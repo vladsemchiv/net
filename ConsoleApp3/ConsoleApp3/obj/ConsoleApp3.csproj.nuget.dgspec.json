@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/vladsemciv/Documents/GitHub/net/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj": {}
+    "C:\\Users\\New\\Desktop\\code\\react-lab\\net\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {}
   },
   "projects": {
-    "/Users/vladsemciv/Documents/GitHub/net/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj": {
+    "C:\\Users\\New\\Desktop\\code\\react-lab\\net\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/vladsemciv/Documents/GitHub/net/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
+        "projectUniqueName": "C:\\Users\\New\\Desktop\\code\\react-lab\\net\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "/Users/vladsemciv/Documents/GitHub/net/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
-        "packagesPath": "/Users/vladsemciv/.nuget/packages/",
-        "outputPath": "/Users/vladsemciv/Documents/GitHub/net/ConsoleApp3/ConsoleApp3/obj/",
+        "projectPath": "C:\\Users\\New\\Desktop\\code\\react-lab\\net\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+        "packagesPath": "C:\\Users\\New\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\New\\Desktop\\code\\react-lab\\net\\ConsoleApp3\\ConsoleApp3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/vladsemciv/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\New\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -32,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
